@@ -1,0 +1,9 @@
+{
+  "name": "blob-to-image",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "blob": "0.0.4"
+  },
+  "main": "./index.js"
+}
